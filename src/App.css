@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+a {
+  text-align: left;
+  padding: 1rem;
+  background-color: 90E4C1;
+  color: black;
+  font-size: 3rem;
+}
+
+#exact {
+  color: blue;
+}
